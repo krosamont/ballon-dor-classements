@@ -1,0 +1,11 @@
+# données complètes et téléchargements : restent en local (échantillon dans echantillon/)
+ballon_dor_classements_1976_2026.csv
+cache/
+images/
+raw.pkl
+photo_cache.json
+pos_cache.json
+APERCU.html
+PROJET.html
+.DS_Store
+__pycache__/
